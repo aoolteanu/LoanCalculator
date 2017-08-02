@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.6
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoanCalculator", "LoanCalculator.csproj", "{A083E757-DF0F-49BB-94B9-00E58C1C7343}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoanCalculator.Tests", "..\LoanCalculator.Tets\LoanCalculator.Tests.csproj", "{97C17DC6-4BF8-41B7-85B2-CC31E6DC4692}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A083E757-DF0F-49BB-94B9-00E58C1C7343}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A083E757-DF0F-49BB-94B9-00E58C1C7343}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A083E757-DF0F-49BB-94B9-00E58C1C7343}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A083E757-DF0F-49BB-94B9-00E58C1C7343}.Release|Any CPU.Build.0 = Release|Any CPU
+		{97C17DC6-4BF8-41B7-85B2-CC31E6DC4692}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97C17DC6-4BF8-41B7-85B2-CC31E6DC4692}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97C17DC6-4BF8-41B7-85B2-CC31E6DC4692}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97C17DC6-4BF8-41B7-85B2-CC31E6DC4692}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
